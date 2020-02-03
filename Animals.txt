@@ -1,0 +1,11 @@
+Fish; Carnivorous; "Greg"; 10;
+Fish; Carnivorous; "Goa"; 17;
+Fish; Herbivorous; "Joe"; 15;
+
+Mammal; Carnivorous; "Max"; 12;
+Mammal; Carnivorous; "Zoe"; 24;
+Mammal; Herbivorous; "Jean"; 78;
+
+Bird; Carnivorous; "Bao"; 19;
+Bird; Carnivorous; "Mad"; 46;
+Bird; Herbivorous; "Lux"; 72;

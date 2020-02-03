@@ -1,0 +1,9 @@
+Grass, 132, "Ambrosia", "1 week";
+Grass, 981, "Corn", "3 months";
+Grass, 451, "Oat", "3 weeks";
+Meat, 986, "Pork", "3 days";
+Meat, 420, "Chicken", "7 days";
+Meat, 711, "Beef", "4 days";
+Fish, 314, "Salmon", "3 days";
+Fish, 591, "Sprat", "5 days";
+Fish, 17, "Karp", "6 days";
